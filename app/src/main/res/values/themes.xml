@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.DramaLibrary" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#E50914</item>
+        <item name="android:windowBackground">#151515</item>
+    </style>
+</resources>
