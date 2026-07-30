@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Drama Library</string>
+    <string name="watching">Watching</string>
+    <string name="watch">Dekhein</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_started">Download shuru: %1$s</string>
+    <string name="load_failed">Episodes load nahi ho sake. Neeche khinch kar dobara koshish karein.</string>
+</resources>
