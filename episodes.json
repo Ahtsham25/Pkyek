@@ -1,0 +1,41 @@
+{
+  "series": "Pyaar Kii Ye Ek Kahaani",
+  "updated": "2026-07-29",
+  "episodes": [
+    {
+      "id": "001",
+      "title": "Episode 01",
+      "video_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2001.mp4",
+      "download_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2001.mp4",
+      "thumbnail_url": "https://archive.org/services/img/p-k-y-e-k-episode-03"
+    },
+    {
+      "id": "002",
+      "title": "Episode 02",
+      "video_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2002.mp4",
+      "download_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2002.mp4",
+      "thumbnail_url": "https://archive.org/services/img/p-k-y-e-k-episode-03"
+    },
+    {
+      "id": "003",
+      "title": "Episode 03",
+      "video_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2003.mp4",
+      "download_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2003.mp4",
+      "thumbnail_url": "https://archive.org/services/img/p-k-y-e-k-episode-03"
+    },
+    {
+      "id": "004",
+      "title": "Episode 04",
+      "video_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2004.mp4",
+      "download_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2004.mp4",
+      "thumbnail_url": "https://archive.org/services/img/p-k-y-e-k-episode-03"
+    },
+    {
+      "id": "005",
+      "title": "Episode 05",
+      "video_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2005.mp4",
+      "download_url": "https://archive.org/download/p-k-y-e-k-episode-03/P%20K%20Y%20E%20K%20-%20Episode%2005.mp4",
+      "thumbnail_url": "https://archive.org/services/img/p-k-y-e-k-episode-03"
+    }
+  ]
+}
